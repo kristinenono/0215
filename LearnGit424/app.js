@@ -5,4 +5,10 @@
 
 
 
+<<<<<<< HEAD
 //experiment making osme chanes
+=======
+//testign making a comment
+
+//hello makign a comment 
+>>>>>>> main
